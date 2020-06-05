@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><messages>
+    <message from="paulstep" id="1" moment="03:49:32 05-06-2020" to="Registrar">Reg me</message>
+    <message from="maxstep" id="2" moment="03:49:52 05-06-2020" to="Registrar">Reg me</message>
+    <message from="paulstep" id="3" moment="03:51:09 05-06-2020" to="maxstep">Hello max</message>
+    <message from="maxstep" id="4" moment="03:51:17 05-06-2020" to="paulstep">Hi, how a u</message>
+    <message from="paulstep" id="5" moment="03:51:23 05-06-2020" to="maxstep">Norm</message>
+    <message from="paulstep" id="6" moment="03:52:54 05-06-2020" to="maxstep">hi hello</message>
+    <message from="pstep" id="7" moment="09:13:27 05-06-2020" to="Registrar">Reg me</message>
+    <message from="pstep" id="8" moment="09:13:34 05-06-2020" to="paulstep">Hello</message>
+    <message from="paulstep" id="9" moment="09:32:44 05-06-2020" to="pstep">Hiiii</message>
+    <message from="pstep" id="10" moment="09:37:21 05-06-2020" to="paulstep">How are you?</message>
+    <message from="newUser" id="11" moment="10:03:56 05-06-2020" to="Registrar">Reg me</message>
+    <message from="newUser" id="12" moment="10:04:11 05-06-2020" to="paulstep">Hello</message>
+    <message from="paulstep" id="13" moment="10:04:17 05-06-2020" to="newUser">Hi</message>
+</messages>
+
